@@ -11,7 +11,7 @@ Navigating Conflicting Views: Harnessing Trust for Learning
 </h5>
 
 
-## 🎯 Overview
+### 🎯 Overview
 This is the official implementation of Navigating Conflicting Views: Harnessing Trust for Learning.
 We introduce Trust Discount (TD) based on Computational Trust for handling conflicting views in Evidential Multiview Learning.
 
@@ -19,8 +19,8 @@ We introduce Trust Discount (TD) based on Computational Trust for handling confl
 <img src="imgs/conflict-demo.png" style="width:450px;"/>
 </h5>
 
-## 🕹️ Usage
-### Installation
+### 🕹️ Usage
+#### Installation
 ```{shell}
 conda create -n mvl python=3.8
 conda activate mvl
@@ -29,7 +29,7 @@ conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cud
 pip install h5py scikit-learn matplotlib scipy statsmodels
 ```
 
-### Dataset
+#### Dataset
 - Please contact [TMC/ETMC's](https://github.com/hanmenghan/TMC) authors for accessing the six multiview datasets,  then put all data files under `Trust/datasets/ICLR2021 Datasets` as follows, indices files are already provided.
 
 - For UPMC-Food101, we download it from Kaggle using the this [link](https://www.kaggle.com/datasets/gianmarco96/upmcfood101), and prepare the datasets as following structure, three json files are already provided.
@@ -40,7 +40,7 @@ pip install h5py scikit-learn matplotlib scipy statsmodels
 </p>
 
 
-### Run the Experiments
+#### Run the Experiments
 We provide necessary scripts as well as the used hyper-parameters for running our codes,
 as in `Trust/scripts`.
 For example,
@@ -55,7 +55,7 @@ python train_etf.py --v-num 0
 ```
 
 
-## 🔗 Citation
+### 🔗 Citation
 If you find this repository useful, please cite our paper:
 ```
 @inproceedings{lu2025navigating,
