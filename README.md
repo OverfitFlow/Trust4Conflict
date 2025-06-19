@@ -15,9 +15,9 @@ Navigating Conflicting Views: Harnessing Trust for Learning
 This is the official implementation of Navigating Conflicting Views: Harnessing Trust for Learning.
 We introduce Trust Discount (TD) based on Computational Trust for handling conflicting views in Evidential Multiview Learning.
 
-<h5 align=center>
+<p align=center>
 <img src="imgs/conflict-demo.png" style="width:450px;"/>
-</h5>
+<p>
 
 ### 🕹️ Usage
 #### Installation
