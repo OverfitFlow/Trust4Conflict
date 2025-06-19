@@ -30,9 +30,9 @@ pip install h5py scikit-learn matplotlib scipy statsmodels
 ```
 
 #### Dataset
-- Please contact [TMC/ETMC's](https://github.com/hanmenghan/TMC) authors for accessing the six multiview datasets,  then put all data files under `Trust/datasets/ICLR2021 Datasets` as follows, indices files are already provided.
+- Please contact [TMC/ETMC's](https://github.com/hanmenghan/TMC) authors for accessing the six multiview datasets, then put all data files under `Trust/datasets/ICLR2021 Datasets` as follows, indices files are already provided.
 
-- For UPMC-Food101, we download it from Kaggle using the this [link](https://www.kaggle.com/datasets/gianmarco96/upmcfood101), and prepare the datasets as following structure, three json files are already provided.
+- For UPMC-Food101, we download it from Kaggle using this [link](https://www.kaggle.com/datasets/gianmarco96/upmcfood101), and prepare the datasets as following structure, three json files are already provided.
 
 <p align="left" style="display: flex; align-items: flex-start;">
   <img src="imgs/six-structure.png" alt="Image 1" width="300" style="margin-right: 10px;"/>
