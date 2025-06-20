@@ -2,13 +2,15 @@
 Navigating Conflicting Views: Harnessing Trust for Learning
 </h2>
 
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.</h5>
 <h5 align=center>
 
-![ICML 2025](https://img.shields.io/badge/ICML_2025-Poster-blue)
+[![ICML 2025](https://img.shields.io/badge/ICML_2025-Poster-blue)](https://icml.cc/virtual/2025/poster/43734)
+[![ICML 2025](https://img.shields.io/badge/GitHub-Trust4Conflict-black.svg?logo=github)]()
 [![arXiv](https://img.shields.io/badge/Arixv-2406.00958-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2406.00958)
 
 </h5>
+
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.</h5>
 
 
 ### 🎯 Overview
@@ -32,7 +34,7 @@ pip install h5py scikit-learn matplotlib scipy statsmodels
 #### Dataset
 - Please contact [TMC/ETMC's](https://github.com/hanmenghan/TMC) authors for accessing the six multiview datasets, then put all data files under `Trust/datasets/ICLR2021 Datasets` as follows, indices files are already provided.
 
-- For UPMC-Food101, we download it from Kaggle using this [link](https://www.kaggle.com/datasets/gianmarco96/upmcfood101), and prepare the datasets as following structure, three json files are already provided.
+- For UPMC-Food101, we download it from Kaggle using this [link](https://www.kaggle.com/datasets/gianmarco96/upmcfood101), and prepare the datasets as following structure, three JSON files are already provided.
 
 <p align="left" style="display: flex; align-items: flex-start;">
   <img src="imgs/six-structure.png" alt="Image 1" width="300" style="margin-right: 10px;"/>
