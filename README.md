@@ -68,3 +68,19 @@ If you find this repository useful, please cite our paper:
   organization={PMLR}
 }
 ```
+We also recommend other related work but not limited to as follows,
+- Trusted Multi-View Classification [[paper]](https://arxiv.org/abs/2102.02051)
+- Trusted Multi-View Classification with Dynamic Evidential Fusion [[paper]](https://arxiv.org/abs/2204.11423)
+- Reliable Conflictive Multi-View Learning [[paper]](https://arxiv.org/abs/2402.16897)
+- Trusted Multi-view Learning with Label Noise [[paper]](https://www.ijcai.org/proceedings/2024/0582.pdf) 
+- Trusted Multi-view Learning under Noisy Supervision [[paper]](https://arxiv.org/abs/2404.11944)
+- Trusted Multi-View Deep Learning with Opinion Aggregation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20724)
+- Safe multi-view deep classification [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26066)
+- Safe multi-view deep classification [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26066)
+- Enhancing Multi-View Classification Reliability with Adaptive Rejection [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26066)
+- Enhancing Testing-Time Robustness for Trusted Multi-View Classification in the Wild [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Enhancing_Testing-Time_Robustness_for_Trusted_Multi-View_Classification_in_the_Wild_CVPR_2025_paper.pdf)
+- Trusted Multi-View Classification via Evolutionary Multi-View Fusion [[paper]](https://openreview.net/pdf?id=U64wEbM7NB)
+- Trusted Multi-View Classification with Expert Knowledge Constraints [[paper]](https://openreview.net/pdf?id=M3kBtqpys5)
+
+
+
